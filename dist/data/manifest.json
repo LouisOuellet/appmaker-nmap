@@ -1,0 +1,13 @@
+{
+    "repository": {
+        "name": "appmaker-nmap",
+        "branch": "dev",
+        "manifest": "\/dist\/data\/manifest.json",
+        "host": {
+            "git": "git@github.com:LouisOuellet\/appmaker-nmap"
+        }
+    },
+    "name": "nmap",
+    "build": 2,
+    "version": "22.01-dev"
+}
